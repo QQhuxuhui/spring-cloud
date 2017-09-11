@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hxh
+Implementation-Vendor-Id: com.cloud.server
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/spring-cloud
+ -consumer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
